@@ -12,5 +12,12 @@
 
     <%= nome%>
     <%=lang%>
+
+    <% produtos.forEach(function(produto){ %>
+        <hr>
+        <h2>nome:</h2><%=produto.nome %>
+        <h2>preço</h2><%=produto.preco %>
+
+    <% })%>
 </body>
 </html>
