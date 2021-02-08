@@ -3,10 +3,7 @@
 
 ## Installation
 
-This tool is based on the `ffmpeg` library, so you need to install it on your computer first. You can find the right installer for your system here: https://www.ffmpeg.org/download.html
-
-After that you can install the tool itself via npm:
-
+first you need to do clone this app 
 ```sh
 npm install -g iptv-checker
 ```
