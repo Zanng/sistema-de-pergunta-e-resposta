@@ -5,7 +5,7 @@
 
 first you need to do clone this app 
 ```sh
-npm install -g iptv-checker
+git clone https://github.com/Zanng/sistema-de-pergunta-e-resposta.git
 ```
 
 ## Usage
