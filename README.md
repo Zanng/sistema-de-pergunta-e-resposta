@@ -24,9 +24,12 @@ after, you need to run the following command to install all dependencies
 npm install 
 ```
 
-now create a file at the root of your project called .env
+now create a file at the root of your project called .env. This .env file you will put
 
-
+```sg
+TABLE=Your table here
+PASSAWORD= Your passaword here
+```
 
 ## Contribution
 
