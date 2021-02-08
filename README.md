@@ -31,6 +31,13 @@ TABLE=Your table here
 PASSAWORD= Your passaword here
 ```
 
+##comments
+
+you will need to have myslq on your computer installed, if you don't have it, download it from this link
+```sh
+https://www.mysql.com/downloads/
+```
+
 ## Contribution
 
 If you find a bug or want to contribute to the code or documentation, you can help by submitting an [issue](https://github.com/freearhey/iptv-checker/issues) or a [pull request](https://github.com/freearhey/iptv-checker/pulls).
