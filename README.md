@@ -31,7 +31,7 @@ TABLE=Your table here
 PASSAWORD= Your passaword here
 ```
 
-##comments
+## Comments
 
 you will need to have myslq on your computer installed, if you don't have it, download it from this link
 ```sh
